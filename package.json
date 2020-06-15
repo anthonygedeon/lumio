@@ -1,8 +1,8 @@
 {
-  "name": "nano",
+  "name": "lumiocss",
   "version": "0.1.0",
   "description": "A utility-first CSS framework that makes the process of quick-prototyping easier.",
-  "main": "nano.js",
+  "main": "index.js",
   "scripts": {
     "test": "jest",
     "style": "eslint ."
