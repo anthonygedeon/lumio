@@ -1,0 +1,29 @@
+{
+  "name": "nano",
+  "version": "0.1.0",
+  "description": "A utility-first CSS framework that makes the process of quick-prototyping easier.",
+  "main": "nano.js",
+  "scripts": {
+    "test": "jest",
+    "style": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonygedeon/nano.git"
+  },
+  "author": "Anthony & Sebastian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anthonygedeon/nano/issues"
+  },
+  "homepage": "https://github.com/anthonygedeon/nano#readme",
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.21.2",
+    "jest": "^26.0.1"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
