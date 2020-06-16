@@ -1,0 +1,102 @@
+.flex {
+	display: flex;
+}
+
+.justify-right {
+	justify-content: flex-end;
+}
+
+.justify-left {
+	justify-content: flex-start;
+}
+
+.justify-between {
+	justify-content: space-between;
+}
+
+.justify-around {
+	justify-content: space-around;
+}
+
+.justify-evenly {
+	justify-content: space-evenly;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.align-top {
+	align-items: flex-start;
+}
+
+.align-center {
+	align-items: center;
+}
+
+.align-bottom {
+	align-items: flex-end;
+}
+
+.flex-column {
+	flex-direction: column;
+}
+
+.flex-r-column {
+	flex-direction: column-reverse
+}
+
+.flex-row {
+	flex-direction: row;
+}
+
+.flex-r-row {
+	flex-direction: row-reverse;
+}
+
+.flex-basis-1
+
+
+.flex-wrap {
+	flex-wrap: wrap;
+}
+
+.order-1 {
+	order: 1;
+}
+
+.order-2 {
+	order: 2
+}
+
+.order-3 {
+	order: 3;
+}
+
+.order-4 {
+	order: 4;
+}
+
+.order-5 {
+	order: 5;
+}
+
+.order-6 {
+	order: 6;
+}
+
+.order-7 {
+	order: 7;
+}
+
+.order-8 {
+	order: 8;
+}
+
+.order-9 {
+	order: 9;
+}
+
+.order-10 {
+	order: 10;
+}

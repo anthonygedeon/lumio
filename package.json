@@ -1,8 +1,8 @@
 {
-  "name": "lumiocss",
-  "version": "0.1.1",
+  "name": "lumio-css",
+  "version": "1.0.1",
   "description": "A utility-first CSS framework that makes the process of quick-prototyping easier.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "jest",
     "style": "eslint ."
